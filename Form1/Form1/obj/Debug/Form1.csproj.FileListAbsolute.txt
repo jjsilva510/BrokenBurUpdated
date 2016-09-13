@@ -1,0 +1,10 @@
+c:\users\stree\documents\visual studio 2015\Projects\Form1\Form1\bin\Debug\Form1.exe.config
+c:\users\stree\documents\visual studio 2015\Projects\Form1\Form1\bin\Debug\Form1.exe
+c:\users\stree\documents\visual studio 2015\Projects\Form1\Form1\bin\Debug\Form1.pdb
+c:\users\stree\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+c:\users\stree\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.Form1.resources
+c:\users\stree\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+c:\users\stree\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+c:\users\stree\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.exe
+c:\users\stree\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\Stree\Documents\Visual Studio 2015\Projects\Form1\Form1\obj\Debug\Form1.Form2.resources
